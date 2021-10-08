@@ -1,1 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T06:04:19.294Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="yPPEeNzxEaKDVKy7Y19h" version="15.3.7" type="github"><diagram id="q9U_5szceUSrqNyL1FPr" name="Page-1">5Vpbj9o4FP41ftwqjnPzowNh9mFHqnYqtX2qIuJCtCFGxlOgv752Ygdihx0GcSuVELK/OCfO+c7VANBosXni+XL+zApaAd8rNgCNge9HCZbfCti2AMQItsiMl4XGdsBL+ZNq0NPoa1nQVW+hYKwS5bIPTlld06noYTnnbN1f9p1V/acu8xl1gJdpXrno57IQ8xZN/HiH/03L2dw8GUb6jRe5WazfZDXPC7beg1AG0IgzJtrRYjOilVKe0Ut73+TA1W5jnNbimBs25YIUY7KOZ98+15NJ8Px1Lf7SUn7k1at+4fSfTAKjqlRi242LrdEGZ691QZVAD6B0PS8FfVnmU3V1LfmX2FwsKjmDcqhFUy7o5uCeYacJaUKULajgW7nE3BBr5Wnz8bGer3dcQKPg+R4PSGO5pn/Wid5pSA60kt6hMP+Awl4ol296c4UFMLgzhSFHYY6SaF0Q5apyVrNagmmRr+aN1mBfQwr/mAtBed0gvockuhKc/de5p98gOReWzPaxtHD83dKt3Bp75VP6P++knV8+ZEbFW97lcrXHRThAhcE4rXJR/uhvd4gf/YSPrFQua0yho1SbQhJZFLevqe/aDxyWIGQLgpagVg+OoMZcutc+3YKCc1qQ5Jpvvyh//BCa6df9a+ONdtZ2ttWz463nTavwb2kVQdwPEEn8m1pF+C6rmFb5alVOh+Lt25zeiwej8ESuHEHJcVxJ7eXbvWVLtWB1eMOdXGvDB23IXp/01stBu4OzGk7kGk4WAVmokrQZTNQnSwBGAI9BFqtLGCuEZCDNQBYCEoAkdsxNZm3RN7A2MY1YxfguMn0vq8qC8qqcqYQ2lXYniwiUqhqglEUo0RcWZVGoxwxWEP0a4wxFRGe/hhY0UER4A3bvX6qIiAc4S0Ai+YgVH5IwHD2TkRrjEUi9ZjAGxrzuqIIN4K0LsuSc6fTYguyM6TO+p5B8clHlhGTbdy6cPvGflz4DO+sdy1Vg+/CR6fNcXJmQ0Qt/bdSDIMMqzCVQISkG6UQlMewDMn4inz7dPP7ZDWlXw9ws/kG3hX8407ctNrSjy6lhyhF0adMfOD6QmV9aOc6aai0DJGwGsmBr0n5CAJ44hD5MbYagRYjn+lN8zdIMuu25Pot9knXB4xLh4/hD2E8LkUsFDq9JxUBPnAUgla5BtGsQkzAUEig/ItDh6NY1chjcPEcMNImPliPs0B55ZyqPHEGXzhED3eF7yer1N25T81vyaR/IncznlU/24EBvMlDuRiBt0r5K/hCQidqHGqcgiZr1I5CEj5t/kNfPPqE52N2ztuSa2ccI7tEWg1TyEezxMWnGY33IRjL1UYMYENS0Lhkwv1ndUdsSDR2BXfeHR/en2j8xyjnB6dSm3gmXV27qDX0DnU3jLjiVrvAvXS0fOYRZFFyugJbT3T8tWgp3/1dB2S8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-08T06:27:09.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="xjmtCrFmaxq5AKiMWCgi" version="15.3.7" type="github">
+  <diagram id="q9U_5szceUSrqNyL1FPr" name="Page-1">
+    <mxGraphModel dx="586" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-1" value="BLE Client" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-2" value="BLE Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;startArrow=none;" parent="1" source="ximAdDAw7g_WnFF4MYwt-7" target="ximAdDAw7g_WnFF4MYwt-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="860" as="sourcePoint" />
+            <mxPoint x="330" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-4" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="ximAdDAw7g_WnFF4MYwt-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="474" y="870" as="sourcePoint" />
+            <mxPoint x="330" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-5" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="350" as="sourcePoint" />
+            <mxPoint x="230" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="350" />
+              <mxPoint x="380" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-6" value="扫描蓝牙设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="330" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-7" value="获取MAC地址" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" target="ximAdDAw7g_WnFF4MYwt-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="860" as="sourcePoint" />
+            <mxPoint x="230" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-9" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="480" as="sourcePoint" />
+            <mxPoint x="470" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-10" value="发送广播" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-12" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="520" as="sourcePoint" />
+            <mxPoint x="230" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-13" value="连接成功" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="500" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-14" value="connectGatt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="297.5" y="460" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-15" value="业务通信" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="540" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-16" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="600" as="sourcePoint" />
+            <mxPoint x="470" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-17" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="610" as="sourcePoint" />
+            <mxPoint x="470" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-19" value="发送消息/拆包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="305" y="574" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-20" value="组包/协议解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-21" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="680" as="sourcePoint" />
+            <mxPoint x="290" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-22" value="返回Resp/拆包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="660" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N2iIrVCfoFvzx7z3-stQ-1" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N2iIrVCfoFvzx7z3-stQ-4" target="ximAdDAw7g_WnFF4MYwt-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="680" as="sourcePoint" />
+            <mxPoint x="110" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="735" />
+              <mxPoint x="110" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N2iIrVCfoFvzx7z3-stQ-2" value="组包/业务数据解析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="670" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N2iIrVCfoFvzx7z3-stQ-4" value="其它通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N2iIrVCfoFvzx7z3-stQ-5" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="690" as="sourcePoint" />
+            <mxPoint x="290" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
