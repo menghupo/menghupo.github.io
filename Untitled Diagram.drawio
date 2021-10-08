@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T06:27:09.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="xjmtCrFmaxq5AKiMWCgi" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T06:30:05.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="dTkJytSSeWWhY0cH64dy" version="15.3.7" type="github">
   <diagram id="q9U_5szceUSrqNyL1FPr" name="Page-1">
     <mxGraphModel dx="586" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
             <mxPoint x="470" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ximAdDAw7g_WnFF4MYwt-19" value="发送消息/拆包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-19" value="发送消息/分包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="574" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ximAdDAw7g_WnFF4MYwt-20" value="组包/协议解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -92,7 +92,7 @@
             <mxPoint x="290" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ximAdDAw7g_WnFF4MYwt-22" value="返回Resp/拆包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ximAdDAw7g_WnFF4MYwt-22" value="返回Resp/分包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="660" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N2iIrVCfoFvzx7z3-stQ-1" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="N2iIrVCfoFvzx7z3-stQ-4" target="ximAdDAw7g_WnFF4MYwt-15">
